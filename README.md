@@ -1,7 +1,8 @@
 # MRZ-Scanner
 This project is aimed to localize and extract MRZ from documents e.g passports and id
 
-
+![Alt text](demo1.jpg?raw=true "Demo1")
+![Alt text](demo2.jpg?raw=true "Demo2")
 
 
 
